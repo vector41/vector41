@@ -14,6 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"  title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,6 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg"  title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg"  title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
@@ -35,6 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg"  title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -44,6 +47,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -52,8 +56,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
-</hr>
+<hr>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;

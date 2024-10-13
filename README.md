@@ -13,7 +13,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
-<br>
+</br>
 
 <h6> 🚨 Stacks 🚨 </h6>
 <div style="display: flex; align-items: center;">
@@ -62,7 +62,6 @@
 </div>
 <br>
 
-<hr>
 <h6> 🧰 Development Tools 🧰 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;

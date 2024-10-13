@@ -4,6 +4,7 @@
 
 
 <hr>
+<h6> 🧠 Languages 🧠 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -16,6 +17,7 @@
 </div>
 <br>
 
+<h6> 🚨 Stacks 🚨 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
@@ -27,6 +29,7 @@
 </div>
 <br>
 
+<h6> 🌀 Frameworks 🌀 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg"  title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material" alt="Material" width="40" height="40"/>&nbsp;
@@ -39,6 +42,7 @@
 </div>
 <br>
 
+<h6> 🚩 Skills 🚩 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -49,6 +53,7 @@
 </div>
 <br>
 
+<h6> 💼 Databases 💼 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"  title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -59,6 +64,7 @@
 <br>
 
 <hr>
+<h6> 🧰 Development Tools 🧰 </h6>
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;

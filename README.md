@@ -22,9 +22,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"  title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg"  title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
@@ -37,9 +37,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg"  title="Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg"  title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 </div>
 <br>
 

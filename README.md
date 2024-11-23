@@ -13,7 +13,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
-</br>
 
 <h6> 🚨 Stacks 🚨 </h6>
 <div style="display: flex; align-items: center;">
@@ -26,7 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg"  title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
 </div>
-<br>
 
 <h6> 🌀 Frameworks 🌀 </h6>
 <div style="display: flex; align-items: center;">
@@ -41,7 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg"  title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 </div>
-<br>
 
 <h6> 🚩 Skills 🚩 </h6>
 <div style="display: flex; align-items: center;">
@@ -54,7 +51,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 </div>
-<br>
 
 <h6> 💼 Databases 💼 </h6>
 <div style="display: flex; align-items: center;">
@@ -64,7 +60,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
-<br>
 
 <h6> 🧰 Development Tools 🧰 </h6>
 <div style="display: flex; align-items: center;">

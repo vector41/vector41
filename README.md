@@ -1,21 +1,19 @@
-<div style="display: flex; justify-content: center;">
-<h3 style="font-family: Poppins;"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
-</div>
+<h3 align="center" style="font-family: Poppins;">
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<div style="display: flex; justify-content: center;">
-<p style="text-align: center;">Love to go fishing and swimming in the evening.</p>
-</div>
+<p align="center">Love to go fishing and swimming in the evening.</p>
 
-<div style="display: flex; justify-content: center;">
-<a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7B92E&center=true&random=true&width=600&height=100&lines=Backend+Engineer;Blockchain+Developer;Technical+Leader;Project+Manager;Full+Stack+Engineer"
-        alt="Typing SVG" /></a>
-</div>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7B92E&center=true&random=true&width=600&height=100&lines=Backend+Engineer;Blockchain+Developer;Technical+Leader;Project+Manager;Full+Stack+Engineer" alt="Typing SVG" />
+    </a>
+</p>
 
 
-<div style="display: flex; justify-content: center;">
-<h6> 🧠 Core Technologies 🧠 </h6>
-<div style="display: flex; align-items: center;">
+<p align="center">
+<h5 align="center"> 🧠 Core Technologies 🧠 </h5>
+<p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"
         alt="Python" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"
@@ -32,12 +30,12 @@
         width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"
         title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
-</div>
-</div>
+</p>
+</p>
 
-<div style="display: flex; justify-content: center;">
-<h6> 🚨 Extra Stacks 🚨 </h6>
-<div style="display: flex; align-items: center;">
+<p align="center">
+<h5 align="center"> 🚨 Extra Stacks 🚨 </h5>
+<p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
         title="React" alt="React" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js"
@@ -52,5 +50,5 @@
         title="Android" alt="Android" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
         title="Flutter" alt="Flutter" width="40" height="40" />&nbsp;
-</div>
-</div>
+</p>
+</p>

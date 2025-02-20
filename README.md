@@ -12,22 +12,9 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <h5 align="center"> 🧠 Core Technologies 🧠 </h5>
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"
-        alt="Python" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-        title="Nodejs" alt="Nodejs" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"
-        alt="Java" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"
-        alt="C#" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
-        title="Solidity" alt="Solidity" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go"
-        width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"
-        alt="Rust" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"
-        title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,solidity,go,rust,laravel" />
+  </a>
 </p>
 
 <h5 align="center"> 🚨 Extra Stacks 🚨 </h5>

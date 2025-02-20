@@ -13,13 +13,28 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <h5 align="center"> 🧠 Core Technologies 🧠 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,solidity,go,rust,laravel" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,solidity,go,rust,laravel,django" />
   </a>
 </p>
 
-<h5 align="center"> 🚨 Extra Stacks 🚨 </h5>
+<h5 align="center"> 🚨 Basic Skills 🚨 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,php,vue,next,angular" />
   </a>
 </p>
+
+<h5 align="center"> 🕹️ Main Services 🕹️ </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,heroku,nginx,vercel" />
+  </a>
+</p>
+
+<h5 align="center"> 💻 Social Medias 💻 </h5>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=devto,discord,github,gmail,instagram,linkedin,stackoverflow" />
+  </a>
+</p>
+

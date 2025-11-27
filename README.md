@@ -11,7 +11,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <h5 align="center"> 🧠 Technologies 🧠 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=devops,python,django,nodejs,java,cs,solidity,go,rust,laravel" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,.net,solidity,go,rust,laravel" />
   </a>
 </p>
 

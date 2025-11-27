@@ -5,7 +5,7 @@
 <h5 align="center"> 🧠 Technologies 🧠 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,net,solidity,go,rust,laravel" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,net,solidity,go,rust,laravel,php,nestjs,nextjs,git" />
   </a>
 </p>
 

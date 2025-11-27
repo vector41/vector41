@@ -5,29 +5,13 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <p align="center">Love to go fishing and swimming in the evening.</p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7B92E&center=true&random=true&width=600&height=100&lines=Backend+Engineer;Blockchain+Developer;Technical+Leader;Project+Manager;Full+Stack+Engineer" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&letterSpacing=0.9&pause=2000&color=F79F0E&center=true&vCenter=true&width=650&height=90&lines=DevOps+%7C+Backend+Developer;Blockchain+%26+Web3+Specialist" alt="Typing SVG" /></a>
 </p>
 
-<h5 align="center"> 🧠 Core Technologies 🧠 </h5>
+<h5 align="center"> 🧠 Technologies 🧠 </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,java,cs,solidity,go,rust,laravel,django" />
-  </a>
-</p>
-
-<h5 align="center"> 🚨 Basic Skills 🚨 </h5>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,php,vue,next,angular" />
-  </a>
-</p>
-
-<h5 align="center"> 🕹️ Main Services 🕹️ </h5>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,heroku,nginx,vercel" />
+    <img src="https://skillicons.dev/icons?i=devops,python,django,nodejs,java,cs,solidity,go,rust,laravel" />
   </a>
 </p>
 

@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,net,solidity,go,rust,laravel,php,nestjs,nextjs,git,docker,express,js,ts,remix,nuxtjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,net,solidity,go,rust,laravel,php,nestjs,nextjs,git,docker,express,js,ts,remix,nuxtjs,c#&perline=10" />
   </a>
 </p>
